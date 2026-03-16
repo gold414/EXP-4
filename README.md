@@ -70,6 +70,15 @@ Bridge wave rectifier:
 
 ![alt text](<WhatsApp Image 2026-03-15 at 9.51.06 AM.jpeg>)
 
+GRAPH:
+
+Half wave rectifier:
+![graph 1  half wave](https://github.com/user-attachments/assets/40ccbf8a-c03a-4bf1-90c6-748e9f8166fa)
+
+Bridge wave rectifier:
+![graph 2 full wave](https://github.com/user-attachments/assets/638e1a99-e605-477d-b674-30d93e020b8f)
+
+
 RESULT:
 
 Input and Output waveforms of a half and full bridge-wave with /without filter are observed and plotted.
